@@ -1,5 +1,3 @@
-# Git and GitHub Course
+# Таймер с обратным отсчетом (без JS)
 
-Crash course for Git 
 
-Hello!
